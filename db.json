@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John"
+    },
+    {
+      "id": 2,
+      "name": "Jane"
+    }
+  ],
+  "todo_items": [
+    {
+      "id": 0,
+      "name": "Serial",
+      "logs": [
+        {
+          "string": "To do chores",
+          "done": false
+        },
+        {
+          "string": "To do dishes",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Change",
+      "logs": [
+        {
+          "string": "To do chores",
+          "done": false
+        },
+        {
+          "string": "To do dishes",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Front",
+      "logs": []
+    }
+  ]
+}
